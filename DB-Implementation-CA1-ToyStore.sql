@@ -11,7 +11,6 @@
 *					Check - chk_column_name (orders)
 *
 ************************/
--- show databases;
 
 DROP DATABASE IF EXISTS ToyStore;
 CREATE DATABASE ToyStore;
@@ -182,8 +181,8 @@ CREATE TABLE orders (
     CONSTRAINT pk_orders PRIMARY KEY(order_id),
     CONSTRAINT fk_orders_account FOREIGN KEY (order_id) 
     REFERENCES account(user_id) ON DELETE RESTRICT,
-    CONSTRAINT chk_cc_type CHECK (cc_type IN ('Visa','Mastercard','AMEX'))		-- works at home, not in college		-- Gives error in Workbench 6.2
-    ) 
+    CONSTRAINT chk_cc_type CHECK (cc_type IN ('Visa','Mastercard','AMEX'))
+    )
 ENGINE=InnoDB;
 
 -- Table 10.
