@@ -1,13 +1,14 @@
 # Games Design and Development - Year 2
 # Semester 4: Database Implementation
-## Continuous Assessment Assignment 1: ToyStore (MySQL)
-### Joe O'Regan
-### K00203642
+## Continuous Assessment Assignment 1: ToyStore ERD (MySQL)
+### Joe O'Regan (K00203642)
 
 ### 01/03/2016
 
 ---
-# Entity Relationship Diagram
+
+# Toy Store
+## Entity Relationship Diagram
 
 
 ![ToyStore ERD](https://raw.githubusercontent.com/joeaoregan/Yr2-DB_Implementation_CA1/master/Screenshots/ToyStoreERD.jpg "TicTacToe")
@@ -48,5 +49,3 @@ If you are unsure about anything, say datatypes not clear, you are to make your 
 
 
 You are not required to populate the database with test data.  You should however write all the appropriate CREATE TABLE statements, and DESC each table.
-
----
