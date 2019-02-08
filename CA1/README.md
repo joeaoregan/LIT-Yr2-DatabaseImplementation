@@ -11,8 +11,8 @@
 ## Entity Relationship Diagram
 
 
-![ToyStore ERD](https://raw.githubusercontent.com/joeaoregan/Yr2-DB_Implementation_CA1/master/Screenshots/ToyStoreERD.jpg "TicTacToe")
-ToyStore Entity Relationship Diagram
+![ToyStore ERD](https://raw.githubusercontent.com/joeaoregan/Yr2-DB_Implementation_CA1/master/Screenshots/ToyStoreERD.jpg "DB Implementation: Toy Store")
+###### ToyStore Entity Relationship Diagram
 
 ---
 
