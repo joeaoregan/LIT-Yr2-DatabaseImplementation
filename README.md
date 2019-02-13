@@ -1,8 +1,11 @@
 # Database Implementation
-## BSc Computing (Games Design and Development)
+## Joe O'Regan (K00203642)
 ### Year 2, Semester 4
-#### Continuous Assessment: Toy Store
-##### Joe O'Regan (K00203642)
+#### BSc Computing (Games Design and Development)
+
+---
+
+## Continuous Assessment: Toy Store
 
 ---
 
